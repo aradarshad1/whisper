@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:01,000
+How are you?
+
+2
+00:00:01,000 --> 00:00:02,000
+10 kills or how are you?
+
+3
+00:00:02,000 --> 00:00:05,000
+I'm alright, I'm gonna do better.
+
+4
+00:00:05,000 --> 00:00:06,000
+Hi.
+
+5
+00:00:06,000 --> 00:00:10,000
+You can be able to hold the book in tomorrow.
+
+6
+00:00:10,000 --> 00:00:11,000
+Uh huh.
+
+7
+00:00:11,000 --> 00:00:12,000
+Five till then.
+
+8
+00:00:12,000 --> 00:00:17,000
+Okay, so you want me to close the booking tomorrow from 5 p.m.
+
+9
+00:00:17,000 --> 00:00:18,000
+Right?
+
+10
+00:00:18,000 --> 00:00:21,000
+Yeah, you can keep it just from 12 till 5.
+
+11
+00:00:21,000 --> 00:00:23,000
+Five included.
+
+12
+00:00:23,000 --> 00:00:26,000
+Okay, so the booking should be available.
+
+13
+00:00:26,000 --> 00:00:27,000
+I don't want any book.
+
+14
+00:00:27,000 --> 00:00:28,000
+Uh huh.
+
+15
+00:00:28,000 --> 00:00:29,000
+Yes.
+
+16
+00:00:29,000 --> 00:00:32,000
+I don't want any book in half five till whatever.
+
+17
+00:00:32,000 --> 00:00:33,000
+I understand.
+
+18
+00:00:33,000 --> 00:00:37,000
+So the booking from 12 to 5 is okay, but later than 5 is not.
+
+19
+00:00:37,000 --> 00:00:38,000
+Yes.
+
+20
+00:00:38,000 --> 00:00:39,000
+No.
+
+21
+00:00:39,000 --> 00:00:40,000
+Okay.
+
+22
+00:00:40,000 --> 00:00:41,000
+I'll do that.
+
+23
+00:00:41,000 --> 00:00:42,000
+No worries.
+
+24
+00:00:42,000 --> 00:00:43,000
+Anything else?
+
+25
+00:00:43,000 --> 00:00:44,000
+Thank you so much.
+
+26
+00:00:44,000 --> 00:00:45,000
+Thank you so much.
+
+27
+00:00:45,000 --> 00:00:46,000
+Thank you.
+
+28
+00:00:46,000 --> 00:00:47,000
+Cheers, bye bye.
+
+29
+00:00:47,000 --> 00:00:48,000
+Take care, bye bye.
+
+30
+00:00:48,000 --> 00:00:49,000
+Thank you, bye bye.
+
